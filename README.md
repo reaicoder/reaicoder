@@ -1,4 +1,4 @@
-To be a mature coder though i am a newbie
+To be a coder though i am a newbie
 
 <!---
 reaicoder/reaicoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
